@@ -9,7 +9,7 @@ from io import StringIO
 
 # === НАСТРОЙКИ ===
 TOKEN = "7301662713:AAFGXo6q1T9UQ8wu0j2C2qCKh4thCv6bGG0"
-SPREADSHEET_NAME = "Заявки"
+SPREADSHEET_NAME = "Заявки дилеров Свай-Фундамент (Телеграм-бот)"
 
 # Получаем JSON-ключ из переменной окружения
 google_key_str = os.environ["GOOGLE_KEY_JSON"]
